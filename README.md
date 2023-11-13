@@ -1,9 +1,8 @@
 
-### Olá! Eu sou o Anderson 👋🏼
+## Olá! Eu sou o Anderson 👋🏼
 
 ![Anders0un GitHub stats](https://github-readme-stats.vercel.app/api?username=Anders0un&show_icons=true&theme=dracula)
-##
-### Tecnologias que eu utilizo:
+## Tecnologias que eu utilizo:
 
 <section style="display: flex">
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-5">
