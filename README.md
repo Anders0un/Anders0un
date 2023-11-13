@@ -2,6 +2,9 @@
 ## Olá! Eu sou o Anderson 👋🏼
 
 ![Anders0un GitHub stats](https://github-readme-stats.vercel.app/api?username=Anders0un&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anders0un&hide_progress=true)
+
 ## Tecnologias que eu utilizo:
 
 <section style="display: flex">
