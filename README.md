@@ -5,7 +5,7 @@
 ##
 ### Tecnologias que eu utilizo:
 
-<section style="display: flex, flex-direction: column">
+<section style="display: flex">
   <div>
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-5">
   </div>
