@@ -1,4 +1,4 @@
-Ola
+
 ### Olá! Eu sou o Anderson 👋🏼
 
 ![Anders0un GitHub stats](https://github-readme-stats.vercel.app/api?username=Anders0un&show_icons=true&theme=dracula)
